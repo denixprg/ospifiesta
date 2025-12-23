@@ -1,0 +1,17 @@
+const List<String> falseMemories = [
+  "Una vez me colé en una fiesta equivocada y acabé brindando con desconocidos como si fueran mis amigos.",
+  "Una noche pedí un taxi, me subí… y era un coche de policía. Me llevaron a casa igual.",
+  "Me quedé dormido/a en un baño de una discoteca y me despertó el personal limpiando.",
+  "Una vez me confundieron con el DJ y me pidieron canciones durante 10 minutos.",
+  "Una noche acabé en una casa que no era la mía porque me seguí a un grupo que pensé que eran mis amigos.",
+  "Una vez me caí bailando y la gente pensó que era parte del baile y me aplaudieron.",
+  "Me hice amigo/a de un desconocido y acabé cenando con su familia esa misma noche.",
+  "Una vez me puse a cantar en la calle y un grupo se unió como si fuera un concierto.",
+  "Una noche perdí el móvil, y me lo devolvieron… pero con 200 fotos rarísimas hechas por alguien.",
+  "Una vez juré que no bebía más y al minuto estaba brindando otra vez sin darme cuenta.",
+  "Me equivoqué de puerta y entré en una reunión seria pensando que era un bar.",
+  "Una vez me puse a discutir con alguien… y era un espejo.",
+  "Una noche intenté ligar y le hablé 5 minutos a alguien que no era esa persona.",
+  "Me quedé atrapado/a en un ascensor con gente random y acabamos cantando para matar el tiempo.",
+  "Una vez me puse a hacer de árbitro en una pelea absurda por una canción.",
+];

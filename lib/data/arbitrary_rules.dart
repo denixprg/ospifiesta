@@ -1,0 +1,17 @@
+const List<String> arbitraryRules = [
+  "Prohibido decir 'sí'.",
+  "Prohibido decir 'no'.",
+  "Prohibido cruzar los brazos.",
+  "Prohibido tocarte la cara.",
+  "Prohibido decir nombres propios.",
+  "Prohibido decir 'bro'.",
+  "Prohibido mirar el móvil (excepto el juego).",
+  "Prohibido reírte con sonido.",
+  "Prohibido decir 'vale'.",
+  "Prohibido decir 'literal'.",
+  "Prohibido señalar con el dedo.",
+  "Prohibido apoyar los codos en la mesa.",
+  "Prohibido decir 'una más y ya'.",
+  "Prohibido hablar de ex.",
+  "Prohibido decir 'yo'.",
+];
